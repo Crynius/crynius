@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # 👋 Hi, I'm Cristian Jaimes
 
 Telecommunications Engineering student passionate about software development and web technologies.
