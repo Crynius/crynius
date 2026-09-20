@@ -17,6 +17,8 @@ I am currently strengthening my Full Stack development skills, working with tech
 
 My goal is to gain professional experience in web application development, creating functional, scalable solutions focused on users' needs.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crynius&theme=tokyonight-duo)](https://git.io/streak-stats)
+
 ##  Featured Projects
 
 ### Reservation Management System
@@ -40,5 +42,3 @@ Tourism agency website with a modern design, responsive approach, and optimized 
 ---
 
 ⭐ Always open to learning, collaborating, and participating in new projects.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crynius&theme=tokyonight-duo)](https://git.io/streak-stats)
