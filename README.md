@@ -20,11 +20,11 @@ I am currently strengthening my Full Stack development skills, working with tech
 
  My goal is to gain professional experience in web application development, creating functional, scalable solutions focused on users' needs. <br/><br/>
 
-![](https://streak-stats.demolab.com/?user=Crynius&theme=radical&hide_border=false) 
-![](https://github-readme-stats.shion.dev/api/top-langs/? username=Crynius&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+![](https://streak-stats.demolab.com/?user=Crynius&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Crynius&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
