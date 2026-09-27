@@ -18,7 +18,15 @@ I am currently strengthening my Full Stack development skills, working with tech
 * Oracle APEX
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crynius&theme=tokyonight-duo)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Crynius&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=Crynius&theme=radical&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Crynius&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Crynius&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
