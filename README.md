@@ -20,8 +20,19 @@ I am currently strengthening my Full Stack development skills, working with tech
 
  My goal is to gain professional experience in web application development, creating functional, scalable solutions focused on users' needs. <br/><br/>
 
-![](https://streak-stats.demolab.com/?user=Crynius&theme=radical&hide_border=false)  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Crynius&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://demolab.com" alt="Streak Stats" />
+    </td>
+    <td width="20"></td> <!-- Este es el espacio de separación -->
+    <td>
+      <img src="https://shion.dev" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+<br/>
+
 
 ---
 
