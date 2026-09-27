@@ -20,6 +20,11 @@ I am currently strengthening my Full Stack development skills, working with tech
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crynius&theme=tokyonight-duo)](https://git.io/streak-stats)
 
+[![Mis Estadísticas de GitHub](https://vercel.app)](https://github.com)
+
+[![Mis Lenguajes Top](https://vercel.app)](https://github.com)
+
+
 ##  Featured Projects
 
 ### Reservation Management System
